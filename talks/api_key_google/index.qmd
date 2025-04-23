@@ -1,0 +1,132 @@
+---
+title: "Geocoding API key"
+subtitle: "Felipe Dzul Manzanilla"
+format: revealjs
+slide-number: true
+chalkboard: true
+editor: visual
+---
+
+## [PI Key de Google]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+- Abrir [Google Cloud Console](https://www.google.com/search?client=safari&rls=en&q=google+console&ie=UTF-8&oe=UTF-8)
+- Iniciar sesión con correo de gmail
+- Registrarse  con los datos que se piden, usuario y tarjeta de credito o debito ( no se hace el cobro)
+- Crear proyecto nuevo y nombrarlo
+- Activar clave API
+- Habilitar APIs y servicios
+- Buscar las APIs, geocoding api y mapstatic api
+- Credenciales y restringir claves
+
+
+## [Google Cloud Console]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+![](paso1.png)
+
+## [Crear un Proyecto]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+![](crear_proyecto.png)
+
+## [Proyecto]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+![](proyecto.png)
+
+
+## [Proyecto]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+![](proyecto_console.png)
+
+## [API & Services]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+![](proyecto_console.png)
+
+
+## [API Library]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+![](api_geocode.png)
+
+
+
+
+## [API & Services]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+![](geocoding_api.png)
+
+
+## [API & Services]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+![](geocoding_api_enable.png)
+
+
+## [Account Information]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+![](account_information.png)
+
+
+## [Account Information]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+![](account_information_2a.png)
+
+
+## [Account Information]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+![](account_information_2b.png)
+
+
+## [Credenciales y Static Map]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+![](static_map1.png)
+
+
+
+
+## [Credenciales y Static Map]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+
+![](static_map2.png)
+
+
+
+## [Credenciales y API]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+![](consola_proyecto_creado.png)
+
+
+## [API del Proyecto]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+![](api_proyecto.png)
+
+
+
+## [API nombre y restricciones]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+![](api_nombre_restriccion.png)
+
+
+## [API restricciones]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+![](apis_restriccion.png)
+
+
+## [API key]{style="color:#003300;"}
+<hr style="height:2px;border-width:0;color:#330019;background-color:#330019">
+
+![](api_key_show.png)
