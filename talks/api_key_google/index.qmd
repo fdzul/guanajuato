@@ -1,6 +1,6 @@
 ---
 title: "Geocoding API key"
-subtitle: "Felipe Dzul Manzanilla"
+subtitle: "Felipe Dzul Manzanilla | Jonathan Mendoza Cruz"
 format: revealjs
 slide-number: true
 chalkboard: true
